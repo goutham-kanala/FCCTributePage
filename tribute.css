@@ -1,0 +1,36 @@
+#main{
+    background-color:rgb(219, 215, 215);
+    text-align: center;
+}
+#title{
+    font-family: Syne Mono,sans-serif;
+    font-size: 40px;
+    padding: 5px;
+    text-align: center;
+    text-shadow: 10px 10px 1px #aaa;
+}
+#img-div{
+    box-shadow: 0 10px 20px rgba(0,0,0,.30), 0 6px 6px rgba(0,0,0,0.30);
+    background-color: whitesmoke;
+    /*font-family: cursive;*/
+    border-radius: 5px;
+    text-align: center;
+    margin: 20px;
+}
+#img{
+    height:auto;
+    max-width: 100%;
+    padding: 5px;
+    position: relative;
+    
+    
+}
+
+#img-caption{
+    padding-bottom: 10px;
+    font-size: 10px;
+}
+#tribute-info{
+    
+}
+
