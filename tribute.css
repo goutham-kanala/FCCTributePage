@@ -41,11 +41,12 @@ p{
     padding: 5px 5px 0px 5px;
     margin: 0px 10px;
 }
-#img{
+#image{
+    display: block;
     height:auto;
     max-width: 100%;
     padding: 5px;
-    margin-bottom: 0;
+    margin:auto;
 }
 #img-caption{
     
